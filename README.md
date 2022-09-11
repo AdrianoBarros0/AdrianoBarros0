@@ -1,11 +1,12 @@
  <img src="image/rgb-rainbow.gif" height=2px width=100%>
 
  ## Olá! Meu nome é Adriano Barroso.
- <image src="image/source-code-animate.svg" align=right width=350px height=350px>
+
 
 - 📖 Atualmente apreendendo JavaScript
 - 🏫 Cursando Coding na [UNINASSAU](https://www.uninassau.edu.br/)
 
+  <image src="image/source-code-animate.svg" align=right width=350px height=350px>
  
 ### 📫 Contato:
 
