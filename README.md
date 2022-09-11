@@ -1,7 +1,7 @@
  <img src="image/rgb-rainbow.gif" height=2px width=100%>
 
  ## Olá! Meu nome é Adriano Barroso.
- <image src="image/source-code-animate.svg" align=right width=330px height=330px>
+ <image src="image/source-code-animate.svg" align=right width=370px height=370px>
 
  
 - 📖 Atualmente apreendendo JavaScript
