@@ -6,6 +6,7 @@
  
 - 📖 Atualmente apreendendo JavaScript
 - 🏫 Cursando Coding na [UNINASSAU](https://www.uninassau.edu.br/)
+- 🏫 Cursando Fisica na [Unilab](https://unilab.edu.br/)
  
 
 ### 📫 Contato:
