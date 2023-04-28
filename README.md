@@ -4,9 +4,8 @@
  <image src="image/source-code-animate.svg" align=right width=365px height=365px>
 
  
-- 📖 Atualmente apreendendo JavaScript
-- 🏫 Cursando Coding na [UNINASSAU](https://www.uninassau.edu.br/)
-- 🏫 Cursando Física na [Unilab](https://unilab.edu.br/)
+<!--- - 📖 Atualmente apreendendo JavaScript --->
+- 🏫 Cursando Engenharia da Computação pela [Unilab](https://unilab.edu.br/)
  
 
 ### 📫 Contato:
